@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p.iml" filepath="$PROJECT_DIR$/lijinquan_p2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_action/lijinquan_p2p_action.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_action/lijinquan_p2p_action.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_cache/lijinquan_p2p_cache.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_cache/lijinquan_p2p_cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_dao/lijinquan_p2p_dao.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_dao/lijinquan_p2p_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_domain/lijinquan_p2p_domain.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_domain/lijinquan_p2p_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_home/lijinquan_p2p_home.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_home/lijinquan_p2p_home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_jms/lijinquan_p2p_jms.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_jms/lijinquan_p2p_jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_management/lijinquan_p2p_management.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_management/lijinquan_p2p_management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_rbac/lijinquan_p2p_rbac.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_rbac/lijinquan_p2p_rbac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_service/lijinquan_p2p_service.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_service/lijinquan_p2p_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lijinquan_p2p_utils/lijinquan_p2p_utils.iml" filepath="$PROJECT_DIR$/lijinquan_p2p_utils/lijinquan_p2p_utils.iml" />
+    </modules>
+  </component>
+</project>

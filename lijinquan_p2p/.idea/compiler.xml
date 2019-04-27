@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lijinquan_p2p_action" />
+        <module name="lijinquan_p2p_cache" />
+        <module name="lijinquan_p2p_dao" />
+        <module name="lijinquan_p2p_domain" />
+        <module name="lijinquan_p2p_home" />
+        <module name="lijinquan_p2p_jms" />
+        <module name="lijinquan_p2p_management" />
+        <module name="lijinquan_p2p_rbac" />
+        <module name="lijinquan_p2p_service" />
+        <module name="lijinquan_p2p_utils" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lijinquan_p2p" target="1.8" />
+      <module name="lijinquan_p2p_action" target="1.7" />
+      <module name="lijinquan_p2p_cache" target="1.7" />
+      <module name="lijinquan_p2p_dao" target="1.7" />
+      <module name="lijinquan_p2p_domain" target="1.7" />
+      <module name="lijinquan_p2p_home" target="1.7" />
+      <module name="lijinquan_p2p_jms" target="1.7" />
+      <module name="lijinquan_p2p_management" target="1.7" />
+      <module name="lijinquan_p2p_rbac" target="1.7" />
+      <module name="lijinquan_p2p_service" target="1.7" />
+      <module name="lijinquan_p2p_utils" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
