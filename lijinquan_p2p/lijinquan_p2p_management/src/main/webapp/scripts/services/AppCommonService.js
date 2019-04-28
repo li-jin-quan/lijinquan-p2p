@@ -1,7 +1,7 @@
 var option = {};
 option.url = {
 	'api_admin' : '/itcast_p2p_action/admin/',
-	'api_account' : '/itcast_p2p_action/account/',
+	'api_account' : '/lijinquan_p2p_action/account/',
 	'api_user' : '/itcast_p2p_action/user/',
 	'api_accountrecord' : '/itcast_p2p_action/accountrecord/',
 	'api_product' : '/itcast_p2p_action/product/',
