@@ -15,10 +15,10 @@
 
 	<!-- 扫描 @Server @Controller @Repository -->
 	<context:component-scan base-package="cn.lijinquan" />
-	<!--&lt;!&ndash; 加载properties文件 &ndash;&gt;-->
-	<!--<context:property-placeholder location="classpath*:config/config.properties" />-->
+	<!-- 加载properties文件 -->
+	<context:property-placeholder location="classpath*:config/config.properties" />
 
-	<!--&lt;!&ndash; 数据源配置文件 &ndash;&gt;-->
-	<!--<import resource="./applicationContext-dataSource.xml" />-->
+	<!-- 数据源配置文件 -->
+	<import resource="applicationContext-dataSource.xml" />
 
 </beans>

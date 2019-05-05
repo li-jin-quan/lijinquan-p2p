@@ -14,11 +14,11 @@
 		<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
 	</listener>
 
-	<!--&lt;!&ndash; OpenEntityManagerInView &ndash;&gt;-->
-	<!--<filter>-->
-	<!--<filter-name>OpenEntityManagerInView</filter-name>-->
-	<!--<filter-class>org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter</filter-class>-->
-	<!--</filter>-->
+	<!-- OpenEntityManagerInView -->
+	<filter>
+	<filter-name>OpenEntityManagerInView</filter-name>
+	<filter-class>org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter</filter-class>
+	</filter>
 
 
 	<!-- struts核心控制器 -->
@@ -32,10 +32,10 @@
 		<dispatcher>REQUEST</dispatcher>
 		<dispatcher>FORWARD</dispatcher>
 	</filter-mapping>
-	<!--<filter-mapping>-->
-		<!--<filter-name>OpenEntityManagerInView</filter-name>-->
-		<!--<url-pattern>/*</url-pattern>-->
-	<!--</filter-mapping>-->
+	<filter-mapping>
+		<filter-name>OpenEntityManagerInView</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.htm</welcome-file>
