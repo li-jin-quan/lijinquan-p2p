@@ -1,2 +1,9 @@
+cn\lijinquan\action\common\JsonMapper.class
+cn\lijinquan\action\common\JsonMapper$1.class
+cn\lijinquan\action\product\ProductAction.class
 cn\lijinquan\action\common\BaseAction.class
-cn\lijinquan\action\Admin\AdminAction.class
+cn\lijinquan\action\common\ProductStyle.class
+cn\lijinquan\action\admin\AdminAction.class
+cn\lijinquan\action\common\SpringContext.class
+cn\lijinquan\action\common\Response.class
+cn\lijinquan\action\common\FrontStatusConstants.class

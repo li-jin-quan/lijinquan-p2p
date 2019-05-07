@@ -1,2 +1,4 @@
-cn\lijinquan\service\impl\AdminServiceImpl.class
+cn\lijinquan\service\admin\impl\AdminServiceImpl.class
+cn\lijinquan\service\product\impl\ProductServiceImpl.class
 cn\lijinquan\service\admin\IAdminService.class
+cn\lijinquan\service\product\IProductService.class

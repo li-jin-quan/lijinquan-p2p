@@ -47,6 +47,11 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>cn.lijinquan.p2p</groupId>
+            <artifactId>lijinquan_p2p_utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
 
     </dependencies>
 

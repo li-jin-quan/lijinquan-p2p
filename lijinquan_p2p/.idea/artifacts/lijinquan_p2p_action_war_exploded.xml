@@ -16,6 +16,9 @@
           <element id="archive" name="lijinquan_p2p_dao-1.0-SNAPSHOT.jar">
             <element id="module-output" name="lijinquan_p2p_dao" />
           </element>
+          <element id="archive" name="lijinquan_p2p_utils-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="lijinquan_p2p_utils" />
+          </element>
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.4" />
           <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.4" />
           <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />

@@ -1,9 +1,8 @@
-package cn.lijinquan.action.Admin;
+package cn.lijinquan.action.admin;
 
 import cn.lijinquan.action.common.BaseAction;
 import cn.lijinquan.domain.AdminModel;
 import cn.lijinquan.service.admin.IAdminService;
-import com.opensymphony.xwork2.ActionSupport;
 import org.apache.struts2.ServletActionContext;
 import org.apache.struts2.convention.annotation.Action;
 import org.apache.struts2.convention.annotation.Namespace;
@@ -34,10 +33,10 @@ public class AdminAction extends BaseAction {
         try {
             AdminModel login = adminService.login(username, password);
 
-            if(login!=null){
+            if (login != null) {
                 ServletActionContext.getResponse().getWriter().write("{\"status\":\"1\"}");
 
-            }else {
+            } else {
                 ServletActionContext.getResponse().getWriter().write("{\"status\":\"0\"}");
 
             }
