@@ -7,11 +7,12 @@
 ### 1.java1.8、 mysql5.5 、redis 、框架为springboot+springmvc+mybatis+webservice+activeMQ
 1. 项目结构
    - microservicecloud-api //实体类和一些中间件的配置类放在这个模块中
-   - microservicecloud-consumer-dept-80  //P2P-ADMIN 后端管理系统的页面消费端
+   - microservicecloud-consumer-dept-80  //P2P-ADMIN 后端管理系统的消费端+页面
+   - microservicecloud-consumer-p2p-81 //P2P-WEB 消费端 + 页面 
    - microservicecloud-consumer-dept-feign //豪猪这里暂时不用
    - microservicecloud-eureka-7001
-   - microservicecloud-consumer-p2p-81 //P2P-WEB页面 + 消费端
-   - microservicecloud-eureka-7002 // eureka 其中7001和7002为了本地开发方便暂时不用到我注释掉了
+   - microservicecloud-eureka-7003 // eureka 其中7001和7003为了本地开发方便暂时不用到我在application.yml注释掉了
+   - microservicecloud-eureka-7002 
    - microservicecloud-provider-dept-8001 //ActiveMQ   consumer
    - microservicecloud-provider-dept-8002 //P2P-ADMIN 后端管理系统服务提供方
    - microservicecloud-provider-dept-8003 //P2P-WEB服务提供断
