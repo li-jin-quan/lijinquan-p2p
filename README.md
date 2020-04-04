@@ -11,8 +11,8 @@
    - microservicecloud-consumer-p2p-81 //P2P-WEB 消费端 + 页面 
    - microservicecloud-consumer-dept-feign //豪猪这里暂时不用
    - microservicecloud-eureka-7001
-   - microservicecloud-eureka-7003 // eureka 其中7001和7003为了本地开发方便暂时不用到我在application.yml注释掉了
-   - microservicecloud-eureka-7002 
+   - microservicecloud-eureka-7002 // eureka 其中7001和7003为了本地开发方便暂时不用到我在application.yml注释掉了
+   - microservicecloud-eureka-7003 
    - microservicecloud-provider-dept-8001 //ActiveMQ   consumer
    - microservicecloud-provider-dept-8002 //P2P-ADMIN 后端管理系统服务提供方
    - microservicecloud-provider-dept-8003 //P2P-WEB服务提供断
